@@ -43,7 +43,7 @@ description = "This is meta description"
 heading = ""
 image = ""
 [params.blog]
-heading = ""
+heading = "Porfolio"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
