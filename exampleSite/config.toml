@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "twenty-twenty-hugo"
-title = "SRA00 Data Stories"
+title = "SRA00 - Data Stories"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
