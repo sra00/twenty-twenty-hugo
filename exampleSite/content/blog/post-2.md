@@ -1,5 +1,5 @@
 ---
-title: ConvNet - Tweet Image Emotion Analysis
+title: ConvNet 1 - Tweet Image Emotion Analysis
 date: 2020-03-14T15:40:24.000+06:00
 image: "/images/cnn.png"
 author:
