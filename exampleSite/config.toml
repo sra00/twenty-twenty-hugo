@@ -41,7 +41,7 @@ author = "Themefisher"
 description = "This is meta description"
 [params.banner]
 heading = ""
-image = "images/2020-landscape-1-2.png"
+image = ""
 [params.blog]
 heading = ""
 [params.call_to_action]
