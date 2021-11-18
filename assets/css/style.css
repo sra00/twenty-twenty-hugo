@@ -414,7 +414,7 @@ address {
 hr {
 	border-style: solid;
 	border-width: 0.1rem 0 0 0;
-	border-color: #dcd7ca;
+	border-color: #F4F4F4;
 	margin: 4rem 0;
 }
 
@@ -591,7 +591,7 @@ samp {
 }
 
 pre {
-	border: 0.1rem solid #dcd7ca;
+	border: 0.1rem solid #F4F4F4;
 	line-height: 1.5;
 	margin: 4rem 0;
 	overflow: auto;
@@ -675,7 +675,7 @@ iframe.instagram-media {
 /* Inputs ------------------------------------ */
 
 fieldset {
-	border: 0.2rem solid #dcd7ca;
+	border: 0.2rem solid #F4F4F4;
 	padding: 2rem;
 }
 
@@ -713,7 +713,7 @@ input[type="checkbox"] {
 	border-radius: 0;
 	border-style: solid;
 	border-width: 0.1rem;
-	border-color: #dcd7ca;
+	border-color: #F4F4F4;
 	box-shadow: none;
 	cursor: pointer;
 }
@@ -755,7 +755,7 @@ button,
 
 input,
 textarea {
-	border-color: #dcd7ca;
+	border-color: #F4F4F4;
 	color: #000;
 }
 
@@ -903,7 +903,7 @@ input[type="search"]:focus {
 /* Tables ------------------------------------ */
 
 table {
-	border: 0.1rem solid #dcd7ca;
+	border: 0.1rem solid #F4F4F4;
 	border-collapse: collapse;
 	border-spacing: 0;
 	empty-cells: show;
@@ -924,7 +924,7 @@ table {
 
 th,
 td {
-	border: 0.1rem solid #dcd7ca;
+	border: 0.1rem solid #F4F4F4;
 	line-height: 1.4;
 	margin: 0;
 	overflow: visible;
@@ -932,7 +932,7 @@ td {
 }
 
 caption {
-	background: #dcd7ca;
+	background: #F4F4F4;
 	font-weight: 600;
 	padding: 0.5em;
 	text-align: center;
@@ -2778,11 +2778,11 @@ h2.entry-title {
 }
 
 :root .has-subtle-background-color {
-	color: #dcd7ca;
+	color: #F4F4F4;
 }
 
 :root .has-subtle-background-background-color {
-	background-color: #dcd7ca;
+	background-color: #F4F4F4;
 	color: #000;
 }
 
@@ -3361,7 +3361,7 @@ hr.wp-block-separator {
 /* Block: Table ------------------------------ */
 
 .wp-block-table.is-style-stripes tbody tr:nth-child(odd) {
-	background: #dcd7ca;
+	background: #F4F4F4;
 }
 
 figure.wp-block-table.is-style-stripes {
@@ -3457,7 +3457,7 @@ figure.wp-block-table.is-style-stripes {
 /* Block: Widget Latest Posts ---------------- */
 
 .wp-block-latest-posts.is-grid li {
-	border-top: 0.2rem solid #dcd7ca;
+	border-top: 0.2rem solid #F4F4F4;
 	margin-top: 2rem;
 	padding-top: 1rem;
 }
